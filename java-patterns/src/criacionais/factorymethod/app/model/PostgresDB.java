@@ -1,4 +1,4 @@
-package criacionais.factorymethod.app.db;
+package criacionais.factorymethod.app.model;
 
 public class PostgresDB implements DB {
 

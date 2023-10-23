@@ -1,4 +1,4 @@
-package criacionais.factorymethod.app.db;
+package criacionais.factorymethod.app.model;
 
 public interface DB {
 	void query(String sql);
